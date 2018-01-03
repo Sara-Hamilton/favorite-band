@@ -1,0 +1,7 @@
+.sidebar {
+  background-color: teal;
+  color: white;
+  float: right;
+  list-style: unset;
+  font-size: 22px;
+}
